@@ -1,3 +1,5 @@
+# ESSE ARQUIVO PRECISA DO ARQUIVO requirements.txt
+
 from sympy import *
 from sympy.parsing.sympy_parser import parse_expr
 from scipy.integrate import quad
