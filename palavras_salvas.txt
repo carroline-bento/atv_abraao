@@ -1,0 +1,9 @@
+[
+  "camelo",
+  "luz",
+  "mochila",
+  "escrita",
+  "batata",
+  "cenoura",
+  "manga"
+]
